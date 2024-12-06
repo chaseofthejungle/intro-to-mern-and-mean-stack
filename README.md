@@ -15,3 +15,5 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
   - This is a runtime environment for backend/server-side JavaScript code, executing it directly in the terminal/console. Thankfully, it is not necessarily difficult to learn.
   
 Notice: 'MERN' or 'MEAN' is spelled out, depending on whether that third technology is ReactJS or AngularJS. 
+
+**So why choose the 'A' over the 'R', or the 'R' over the 'A'?**: In addition to the aforementioned learning curve difference between ReactJS and AngularJS, ReactJS may be better suited for simple web apps, while the latter can be a more efficacious choice for complex enterprise organizational apps that require extensive project maintenance and code consistency. This is not to say that ReactJS is somehow a lesser technology than AngularJS, but *is* to say that it is an excellent choice for quickly building smaller apps from a tried and tested component library that provides an abstract layer for user interfacing.
