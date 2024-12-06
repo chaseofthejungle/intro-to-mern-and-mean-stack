@@ -17,3 +17,14 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
 *MERN* or *MEAN* is spelled out, depending on whether the third technology in the stack is ReactJS or AngularJS. 
 
 **Why choose 'A' over 'R', or 'R' over 'A'?**: In addition to the aforementioned learning curve difference, ReactJS may be better suited for simple web apps while AngularJS can be a more efficacious choice for enterprise web apps that require extensive project maintenance and code consistency. ReactJS is not an intrinsically 'lesser' technology than AngularJS, but can be the superior option for quickly building smaller apps from a tried-and-tested component library with an abstract layer for user interfacing.
+
+Some key differences between AngularJS and ReactJS...  
+  
+| Characteristic | AngularJS | ReactJS |
+| ---- | ---- | ---- |
+| JS Support Type | Framework | Library  |
+| Learning Curve | More (but not strenuous) | Less (can get started faster) |
+| DOM Type | Regular (HTML/XML Standard) | Virtual (increased performance/faster app builds) |
+| Components | First Party | Third Party Alternatives |
+| Integrated Scripting Technology | TypeScript | JSX |
+| Data Binding | 1 or 2 Way | 1 Way |
