@@ -5,14 +5,19 @@
 Each letter in the MERN and MEAN acronyms stands for a technology of the profession's integrated stack. Notice that there is only one letter/technology of difference among the four letters of each (the third letter, which is either an 'R' or an 'A'). The acronyms stand for:
 
 * [MongoDB](https://www.mongodb.com/)
-  - A 'NoSQL' database technology, relying on JSON-like documentation (BSON) for data storage.
+  - A NoSQL (Not Only SQL) database technology, relying on JSON-like documentation (BSON) for data storage.
+    + Thus, web asset data is stored via the 'M' of MERN/MEAN stack.  
 * [ExpressJS](https://expressjs.com/)
   - A JavaScript framework for building out and establishing server-side ('backend') APIs.
+    + This is a technology for handling user/client requests by serving data back as responses.
 * [ReactJS](https://react.dev/) *or* [AngularJS](https://angularjs.org/)
   - ReactJS is a client-side library of JS code for creating and customizing user interfaces (UIs) via components. Generally takes less time to learn the basics of than AngularJS.
-  - AngularJS is also a client-side UI building technology. However, it is a *framework* and relies on additional technological integrations (e.g., TypeScript).  
+    + It is one of two options in the MERN/MEAN stack paradigm for implementing User Interface design and User Experience (UX) design, with the other option being AngularJS.
+  - AngularJS is also a client-side UI building technology. However, it is a *framework* and relies on additional technological integrations (e.g., TypeScript).
+    + TypeScript is an open-source language with the ability to transpile (translate code into another language's source code).
 * [NodeJS](https://nodejs.org/en)
   - A runtime environment for executing backend JavaScript code directly in terminal/console, with a gentle learning curve.
+    + It works as an engine for processing data and therefore powering web assets, working in tandem with ExpressJS in doing so.
   
 *MERN* or *MEAN* is spelled out, depending on whether the third technology in the stack is ReactJS or AngularJS. 
 
