@@ -18,7 +18,14 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
 * [NodeJS](https://nodejs.org/en)
   - A runtime environment for executing backend JavaScript code directly in terminal/console, with a gentle learning curve.
     + It works as an engine for processing data and therefore powering web assets, working in tandem with ExpressJS in doing so.
-  
+  - Several features of NodeJS include that it is...
+    + Built for fast performance
+    + Compatible with various platforms.
+    + Enabling of JS on both the server and client sides (permitting full-stack integrations).
+    + Highly scalable.
+    + Supported by an active community.
+    + Useful for real-time apps.  
+
 *MERN* or *MEAN* is spelled out, depending on whether the third technology in the stack is ReactJS or AngularJS. 
 
 **Why choose 'A' over 'R', or 'R' over 'A'?**: In addition to the aforementioned learning curve difference, ReactJS may be better suited for simple web apps while AngularJS can be a more efficacious choice for enterprise web apps that require extensive project maintenance and code consistency. ReactJS is not an intrinsically 'lesser' technology than AngularJS, but can be the superior option for quickly building smaller apps from a tried-and-tested component library with an abstract layer for user interfacing.
