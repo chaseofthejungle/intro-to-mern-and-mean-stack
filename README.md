@@ -13,6 +13,12 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
 * [ReactJS](https://react.dev/) *or* [AngularJS](https://angularjs.org/)
   - ReactJS is a client-side library of JS code for creating and customizing user interfaces (UIs) via components. Generally takes less time to learn the basics of than AngularJS.
     + It is one of two options in the MERN/MEAN stack paradigm for implementing User Interface design and User Experience (UX) design, with the other option being AngularJS.
+  - ReactJS can be optimized in various ways, such as through:
+    + Debouncing and Throttling (Limiting when functions execute and how often.)
+    + Lazy Loading (Loading components on an as-needed basis.)
+    + List Virtualization (Only rendering list items if they are available on-screen.)
+    + Memoization (Caching responses for future re-use.)
+    + useTransition() Hook Utilization (Holding off updates until needed, for performance purposes.)
   - AngularJS is also a client-side UI building technology. However, it is a *framework* and relies on additional technological integrations (e.g., TypeScript).
     + TypeScript is an open-source language with the ability to transpile (translate code into another language's source code).
 * [NodeJS](https://nodejs.org/en)
