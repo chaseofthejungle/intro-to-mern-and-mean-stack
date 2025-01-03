@@ -39,12 +39,12 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
 Some key differences between AngularJS and ReactJS...  
   
 | Characteristic | AngularJS | ReactJS |
-| ---- | ---- | ---- |
-| `JS Support Type` | Framework | Library  |
-| `Learning Curve` | More (but not strenuous) | Less (can get started faster) |
-| `DOM Type` | Regular (HTML/XML Standard) | Virtual (increased performance/faster app builds) |
-| `Components` | First Party | Third Party Alternatives |
-| `Integrated Scripting Technology` | TypeScript | JSX |
-| `Data Binding` | 1 or 2 Way | 1 Way |
+| :----: | ---- | ---- |
+| JS Support Type | Framework | Library  |
+| Learning Curve | More (but not strenuous) | Less (can get started faster) |
+| DOM Type | Regular (HTML/XML Standard) | Virtual (increased performance/faster app builds) |
+| Components | First Party | Third Party Alternatives |
+| Integrated Scripting Technology | TypeScript | JSX |
+| Data Binding | 1 or 2 Way | 1 Way |
 
 TODO: Add details on real, virtual, and shadow DOM types.
