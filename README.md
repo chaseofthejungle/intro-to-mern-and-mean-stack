@@ -46,5 +46,6 @@ Some key differences between AngularJS and ReactJS...
 | Components | First Party | Third Party Alternatives |
 | Integrated Scripting Technology | TypeScript | JSX |
 | Data Binding | 1 or 2 Way | 1 Way |
-
-TODO: Add details on real, virtual, and shadow DOM types.
+  
+TODO #1: Add details on real, virtual, and shadow DOM types.  
+TODO #2: Add details on React component life cycle.
