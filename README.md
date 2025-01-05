@@ -45,7 +45,11 @@ Some key differences between AngularJS and ReactJS...
 | DOM Type | Regular (HTML/XML Standard) | Virtual (increased performance/faster app builds) |
 | Components | First Party | Third Party Alternatives |
 | Integrated Scripting Technology | TypeScript | JSX |
-| Data Binding | 1 or 2 Way | 1 Way |
+| Data Binding | 1 or 2 Way | 1 Way |  
+  
+**Wait, what's a DOM?**: The Document Object Model (DOM) represents XML and HTML documents in an object-oriented, tree-structured manner. Examples of objects within this structure include the various *elements*, such as XML/HTML tags, attributes (belonging to various tags), and literal text. The DOM provides a basis for manipulating web asset content, style, and structure through scripting and programming languages, with the potential to dynamically update web pages in real-time.
+
+The root element in the DOM of a .html (web page) file is the html element, or `<html>`, with sub-elements such as `<head>`, `<body>`, and `<a>` (for links, with the attribute `href` used for hyperlink referencing).
   
 TODO #1: Add details on real, virtual, and shadow DOM types.  
 TODO #2: Add details on React component life cycle.
