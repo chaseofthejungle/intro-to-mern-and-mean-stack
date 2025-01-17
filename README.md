@@ -14,23 +14,29 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
   - ReactJS is a client-side library of JS code for creating and customizing user interfaces (UIs) via components. Generally takes less time to learn the basics of than AngularJS.
     + It is one of two options in the MERN/MEAN stack paradigm for implementing User Interface design and User Experience (UX) design, with the other option being AngularJS.
   - ReactJS can be optimized in various ways, such as through:
-    + Debouncing and Throttling (Limiting when functions execute and how often.)
-    + Lazy Loading (Loading components on an as-needed basis.)
-    + List Virtualization (Only rendering list items if they are available on-screen.)
-    + Memoization (Caching responses for future re-use.)
-    + useTransition() Hook Utilization (Holding off updates until needed, for performance purposes.)
+    + *Debouncing and Throttling* (Limiting when functions execute and how often.)
+    + *Lazy Loading* (Loading components on an as-needed basis.)
+    + *List Virtualization* (Only rendering list items if they are available on-screen.)
+    + *Memoization* (Caching responses for future re-use.)
+    + *useTransition() Hook Utilization* (Holding off updates until needed, for performance purposes.)
   - AngularJS is also a client-side UI building technology. However, it is a *framework* and relies on additional technological integrations (e.g., TypeScript).
-    + TypeScript is an open-source language with the ability to transpile (translate code into another language's source code).
+    + *TypeScript* is an open-source language with the ability to transpile (translate code into another language's source code).
 * [NodeJS](https://nodejs.org/en)
   - A runtime environment for executing backend JavaScript code directly in terminal/console, with a gentle learning curve.
     + It works as an engine for processing data and therefore powering web assets, working in tandem with ExpressJS in doing so.
   - Several features of NodeJS include that it is...
-    + Built for fast performance
-    + Compatible with various platforms.
-    + Enabling of JS on both the server and client sides (permitting full-stack integrations).
-    + Highly scalable.
-    + Supported by an active community.
-    + Useful for real-time apps.  
+    + **Built for fast performance.**
+      - The JavaScript *V8 engine* is utilized by NodeJS to empower server-side apps with high efficiency and speed. Microservices, APIs and real-time apps are all popular consumers of the V8 engine.
+    + **Enabled JS on both server and client sides.**
+      - This supports seamless full-stack integrations, empowering DevOps and CI/CD environments. 
+    + **Highly Operating System (OS) portable.**
+      - NodeJS is compatible with a variety of Operating Systems, from desktop OSes (e.g., Windows, Linux, macOS) to more specialized ones such as SmartOS and IBM AIX.
+    + **Highly scalable.**
+      - NodeJS operates under a non-blocking I/O paradigm, which permits users and apps to move onto other tasks and events while an I/O operation is being processed/handled.
+    + **Promoted and troubleshot by an active community.**
+      - There are a variety of [discussion and other support options](https://nodejs.org/en/about/get-involved) for NodeJS developers. 
+    + **Useful for real-time apps.**
+      - Since NodeJS specializes in handling concurrent connections, real-time apps (e.g., chat services, online games) can be highly scalable.
 
 <hr />  
 
