@@ -39,7 +39,9 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
       - Since NodeJS specializes in handling concurrent connections, real-time apps (e.g., chat services, online games) can be highly scalable.
 
 <hr />  
-
+  
+## MEAN or MERN?
+  
 *MERN* or *MEAN* is spelled out, depending on whether the third technology in the stack is ReactJS or AngularJS. 
 
 **Why choose 'A' over 'R', or 'R' over 'A'?**: In addition to the aforementioned learning curve difference, ReactJS may be better suited for simple web apps while AngularJS can be a more efficacious choice for enterprise web apps that require extensive project maintenance and code consistency. ReactJS is not an intrinsically 'lesser' technology than AngularJS, but can be the superior option for quickly building smaller apps from a tried-and-tested component library with an abstract layer for user interfacing.
@@ -56,7 +58,9 @@ Some key differences between AngularJS and ReactJS...
 | Data Binding | 1 or 2 Way | 1 Way |  
   
 <hr />  
-
+  
+## The Document Object Model (DOM)
+  
 **Wait, what's a DOM?**: The Document Object Model (DOM) represents XML and HTML documents in an object-oriented, tree-structured manner. Examples of objects within this structure include the various *elements*, such as XML/HTML tags, attributes (belonging to various tags), and literal text. The DOM provides a basis for manipulating web asset content, style, and structure through scripting and programming languages, with the potential to dynamically update web pages in real-time.
 
 The root element in the DOM of a .html (web page) file is the html element, or `<html>`, with sub-elements such as `<head>`, `<body>`, and `<a>` (for links, with the attribute `href` used for hyperlink referencing).
