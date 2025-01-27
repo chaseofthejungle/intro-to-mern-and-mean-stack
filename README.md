@@ -40,7 +40,7 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
 
 <hr />  
   
-## MEAN or MERN?
+## 1. MEAN or MERN?
   
 *MERN* or *MEAN* is spelled out, depending on whether the third technology in the stack is ReactJS or AngularJS. 
 
@@ -59,7 +59,7 @@ Some key differences between AngularJS and ReactJS...
   
 <hr />  
   
-## The Document Object Model (DOM)
+## 2. The Document Object Model (DOM)
   
 **Wait, what's a DOM?**: The Document Object Model (DOM) represents XML and HTML documents in an object-oriented, tree-structured manner. Examples of objects within this structure include the various *elements*, such as XML/HTML tags, attributes (belonging to various tags), and literal text. The DOM provides a basis for manipulating web asset content, style, and structure through scripting and programming languages, with the potential to dynamically update web pages in real-time.
 
