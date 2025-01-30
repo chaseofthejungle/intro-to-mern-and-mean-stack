@@ -2,6 +2,16 @@
 
 **Definition/Overview:** MERN and MEAN stack developers are JavaScript web app developers that unite client and server side web development with CRUD database operations (that is to say, *C*reate, *R*ead, *U*pdate, and *D*elete operations). Thus, these positions are said to be 'full-stack' web development positions.
   
+#### Table of Contents:
+
+1. What the Letters Mean
+2. MEAN or MERN?
+3. The Document Object Model (DOM)
+  
+<hr />
+
+## 1. What the Letters Mean
+  
 Each letter in the MERN and MEAN acronyms stands for a technology of the profession's integrated stack. Notice that there is only one letter/technology of difference among the four letters of each (the third letter, which is either an 'R' or an 'A'). The acronyms stand for:
 
 * [MongoDB](https://www.mongodb.com/)
@@ -40,7 +50,7 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
 
 <hr />  
   
-## 1. MEAN or MERN?
+## 2. MEAN or MERN?
   
 *MERN* or *MEAN* is spelled out, depending on whether the third technology in the stack is ReactJS or AngularJS. 
 
@@ -59,7 +69,7 @@ Some key differences between AngularJS and ReactJS...
   
 <hr />  
   
-## 2. The Document Object Model (DOM)
+## 3. The Document Object Model (DOM)
   
 **Wait, what's a DOM?**: The Document Object Model (DOM) represents XML and HTML documents in an object-oriented, tree-structured manner. Examples of objects within this structure include the various *elements*, such as XML/HTML tags, attributes (belonging to various tags), and literal text. The DOM provides a basis for manipulating web asset content, style, and structure through scripting and programming languages, with the potential to dynamically update web pages in real-time.
 
