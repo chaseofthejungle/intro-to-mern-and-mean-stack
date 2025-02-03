@@ -4,13 +4,13 @@
   
 #### Table of Contents:
 
-1. What the Letters Mean
-2. MEAN or MERN?
-3. The Document Object Model (DOM)
+1. [What the Letters Mean](#what-the-letters-mean)
+2. [MEAN or MERN?](#mean-or-mern)
+3. [The Document Object Model (DOM)](#the-dom)
   
 <hr />
 
-## 1. What the Letters Mean
+## <a name="what-the-letters-mean">1. What the Letters Mean</a>
   
 Each letter in the MERN and MEAN acronyms stands for a technology of the profession's integrated stack. Notice that there is only one letter/technology of difference among the four letters of each (the third letter, which is either an 'R' or an 'A'). The acronyms stand for:
 
@@ -50,7 +50,7 @@ Each letter in the MERN and MEAN acronyms stands for a technology of the profess
 
 <hr />  
   
-## 2. MEAN or MERN?
+## <a name="mean-or-mern">2. MEAN or MERN?</a>
   
 *MERN* or *MEAN* is spelled out, depending on whether the third technology in the stack is ReactJS or AngularJS. 
 
@@ -69,7 +69,7 @@ Some key differences between AngularJS and ReactJS...
   
 <hr />  
   
-## 3. The Document Object Model (DOM)
+## <a name="the-dom">3. The Document Object Model (DOM)</a>
   
 **Wait, what's a DOM?**: The Document Object Model (DOM) represents XML and HTML documents in an object-oriented, tree-structured manner. Examples of objects within this structure include the various *elements*, such as XML/HTML tags, attributes (belonging to various tags), and literal text. The DOM provides a basis for manipulating web asset content, style, and structure through scripting and programming languages, with the potential to dynamically update web pages in real-time.
 
