@@ -7,7 +7,7 @@
 1. [What the Letters Mean](#what-the-letters-mean)
 2. [MEAN or MERN?](#mean-or-mern)
 3. [The Document Object Model (DOM)](#the-dom)
-4. [Supplemental Resource](#supplemental)
+4. [Supplemental Resources](#supplemental)
   
 <hr />
 
@@ -80,6 +80,7 @@ The root element in the DOM of a .html (web page) file is the html element, or `
 
 ## <a name="supplemental">4. Supplemental Resource</a>
 
+[Intro to ReactJS](https://github.com/chaseofthejungle/intro-to-reactjs)  
 [JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)
 
 <hr />
