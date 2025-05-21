@@ -80,9 +80,10 @@ The root element in the DOM of a .html (web page) file is the html element, or `
 
 ## <a name="supplemental">4. Supplemental Resources</a>
 
-* [Intro to ReactJS](https://github.com/chaseofthejungle/intro-to-reactjs)  
-* [JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)
-
+* *[Intro to ReactJS](https://github.com/chaseofthejungle/intro-to-reactjs)*  
+* *[JavaScript Concepts Guide](https://github.com/chaseofthejungle/js-concepts-guide)*
+* *[MongoDB Official Website](https://www.mongodb.com/)*
+  
 <hr />
   
 TODO #1: Add details on real, virtual, and shadow DOM types.  
